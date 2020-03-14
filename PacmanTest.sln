@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PacmanTest", "PacmanTest\PacmanTest\PacmanTest.csproj", "{6F05B8B6-7E8C-4959-9D46-DE6756C32E7E}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "PacmanTestContent", "PacmanTest\PacmanTestContent\PacmanTestContent.contentproj", "{D231389B-F568-4818-B756-356A3931077D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F05B8B6-7E8C-4959-9D46-DE6756C32E7E}.Debug|x86.ActiveCfg = Debug|x86
+		{6F05B8B6-7E8C-4959-9D46-DE6756C32E7E}.Debug|x86.Build.0 = Debug|x86
+		{6F05B8B6-7E8C-4959-9D46-DE6756C32E7E}.Release|x86.ActiveCfg = Release|x86
+		{6F05B8B6-7E8C-4959-9D46-DE6756C32E7E}.Release|x86.Build.0 = Release|x86
+		{D231389B-F568-4818-B756-356A3931077D}.Debug|x86.ActiveCfg = Debug|x86
+		{D231389B-F568-4818-B756-356A3931077D}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E96DF6E-A9AE-4FB1-8BF6-783D0D73506B}
+	EndGlobalSection
+EndGlobal
